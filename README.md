@@ -5,5 +5,7 @@ You have the data for the 100 top-rated movies from the past decade along with v
 #### This contain the below files:
 
 a) Movie+Assignment+Data.csv -  Data Files
+
 b) Movie+Assignment+Data+Dictionary.xlsx - Data Dictionary
+
 c) IMDb_Movie_Visualization.ipynb - iPython Notebook
